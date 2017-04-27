@@ -1,5 +1,5 @@
-before_install: make
+before_install: make dep
 language: c
 compiler: gcc
-script: ./geometry_test
+script: make test
 sudo: required
