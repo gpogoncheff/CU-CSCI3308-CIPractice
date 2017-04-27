@@ -1,0 +1,5 @@
+before_install: make test
+language:c
+compiler: gcc
+script: ./geometry_test
+sudo required
