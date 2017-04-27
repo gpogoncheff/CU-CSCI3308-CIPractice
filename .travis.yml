@@ -1,4 +1,4 @@
-before_install: make test
+before_install: make
 language: c
 compiler: gcc
 script: ./geometry_test
