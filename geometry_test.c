@@ -145,6 +145,7 @@ START_TEST(test_2d_midpoint)
 }
 END_TEST
 
+//area test
 START_TEST(test_2d_area_triangle)
 {
     coord_2d_t a;
